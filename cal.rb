@@ -9,3 +9,9 @@ end
 def sub(x,y)
   x - y
 end
+
+#multiplication
+
+def multiply(x,y)
+  x * y
+end 
