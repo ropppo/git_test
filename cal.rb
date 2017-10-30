@@ -14,4 +14,10 @@ end
 
 def multiply(x,y)
   x * y
+end
+
+#division
+
+def division(x,y)
+  x/y
 end 
