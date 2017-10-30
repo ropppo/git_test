@@ -20,4 +20,10 @@ end
 
 def division(x,y)
   x/y
+end
+
+#exponential
+
+def exponential(x,y)
+  x**y
 end 
